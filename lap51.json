@@ -1,0 +1,10 @@
+{
+    "title":"lap trinh co ban",
+    "description":"khoa hoc gioi thieu react native co ban",
+    "movies":[
+        {"id":"1","title":"video 1","releaseyear":"2019"},
+        {"id":"2","title":"video 2","releaseyear":"2020"},
+        {"id":"3","title":"video 3","releaseyear":"2021"},
+        {"id":"4","title":"video 4","releaseyear":"2021"}
+    ]
+}
